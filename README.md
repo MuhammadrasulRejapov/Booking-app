@@ -27,6 +27,8 @@ Ushbu loyiha tadbirlarni boshqarish uchun mo‘ljallangan. Foydalanuvchilar tizi
 ## Loyihani ishga tushirish
 
 Loyihani o‘z kompyuteringizda ishga tushirish uchun quyidagi qadamlarni bajaring.
+oldin cd EventBookingFrontend papkasiga kiring
+keyin esa ng serve buyrugini bajaring shunda backend va frontend bir vaqtda ishga tushadi
 
 ### Talablar
 - Node.js (v18 yoki undan yuqori)
