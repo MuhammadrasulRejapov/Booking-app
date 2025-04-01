@@ -1,0 +1,16 @@
+# Node.js (EventBookingFrontend uchun)
+node_modules/
+dist/
+.angular/
+
+# .NET (EventBookingApi uchun)
+bin/
+obj/
+*.csproj.user
+.vs/
+*.sln
+*.suo
+
+# Boshqa keraksiz fayllar
+*.log
+*.tmp
